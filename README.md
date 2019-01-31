@@ -10,9 +10,9 @@ Data used for the examples is in [./data/parsed/](https://github.com/brews/d18oc
 
 ## Running the notebook locally
 
-If you would like to run the examples, you can download it. I've included [environment.yml](https://github.com/brews/d18oc_sst/blob/master/environment.yml). This lists the package requirements to create a virtual environment in [Anaconda](https://www.anaconda.com/)/[conda](https://docs.conda.io/projects/conda/en/latest/).
+If you would like to run the examples, you can [download it](https://github.com/brews/d18oc_sst/archive/master.zip). I've included a [environment.yml](https://github.com/brews/d18oc_sst/blob/master/environment.yml) file. This lists the package requirements to create a virtual environment in [Anaconda](https://www.anaconda.com/)/[conda](https://docs.conda.io/projects/conda/en/latest/).
 
-First unzip the downloaded files or clone it with git and move into the "d18Oc_sst" directory. Assuming you have `conda` installed and configured, you can create the environment with:
+First unzip the downloaded zip or clone the repo with git and move into the "d18Oc_sst" directory. Assuming you have `conda` installed and configured, you can create the environment with:
 
 ```bash
 conda env create -f environment.yml
