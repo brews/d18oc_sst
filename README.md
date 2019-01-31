@@ -18,12 +18,10 @@ Assuming you have `conda` installed and configured, you can create the environme
 conda env create -f environment.yml
 ```
 
-and follow the prompts. With the environment created, activate the new environment. You can now start a Jupyter notebook server for your Desktop computer with:
+and follow the prompts. With the environment created, activate the new environment. You can start a Jupyter notebook server for your Desktop computer with:
 
 ```bash
 jupyter notebook
 ```
 
 This should launch a web browser allowing you to navigate to Jupyter notebook in ./notebooks/.
-
-Thank you very much for your interest!
