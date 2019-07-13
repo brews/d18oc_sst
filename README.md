@@ -2,7 +2,7 @@
 
 This is a companion to Malevich, Steven B, Lael Vetter, and Jessica E. Tierney, (2019). "Global core top calibration of d18O in planktic foraminifera to sea-surface temperature". Submitted to "Paleoceanography and Paleoclimatology".
 
-This repository contains code walking through the four Bayesian regression coretop calibration models. This is in the notebook in [./notebooks/bayesian_calibration_examples.ipynb](https://github.com/brews/d18oc_sst/blob/master/notebooks/bayesian_calibration_examples.ipynb). You should be able to view this notebook online.
+This repository contains code walking through the four Bayesian regression coretop calibration models. This is in the notebook in [./notebooks/bayesian_calibration_examples.ipynb](https://github.com/brews/d18oc_sst/blob/master/notebooks/bayesian_calibration_examples.ipynb). You should be able to view this notebook online in github or [nbviewer](https://nbviewer.jupyter.org/github/brews/d18oc_sst/blob/master/notebooks/bayesian_calibration_examples.ipynb).
 
 ## Data
 
